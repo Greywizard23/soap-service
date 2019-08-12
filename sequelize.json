@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "root",
+        "password": "pass",
+        "database": "apidb",
+        "host": "mysql",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "pass",
+        "database": "apidb",
+        "host": "mysql",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "pass",
+        "database": "apidb",
+        "host": "mysql",
+        "dialect": "mysql"
+    }
+}
