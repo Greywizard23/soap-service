@@ -17,7 +17,7 @@
     "mysql2": "^1.6.5",
     "point-of-view": "^3.5.0",
     "reflect-metadata": "^0.1.13",
-    "sequelize": "^5.13.1",
+    "sequelize": "^5.15.1",
     "sequelize-typescript": "^1.0.0-beta.4",
     "soap": "^0.29.0"
   },
